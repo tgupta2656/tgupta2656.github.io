@@ -134,14 +134,17 @@ nav
         padding-top: 40px;
     }
 
-#imagesrow1
-{
-    padding-top: 60px; 
+#projectshead {
+    text-align: center;
+    padding-top: 40px; 
+}
+
+#imagesrow1 {
+    padding-top: 60px;
     margin-left: auto;
     margin-right: auto;
-     
-    text-align: center; 
-    font-size: 20px; 
+    text-align: center;
+    font-size: 20px;
 }
 #imagesrow2 {
     padding-top: 60px;
