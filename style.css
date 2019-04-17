@@ -1,0 +1,117 @@
+*{
+    margin: 0; 
+    padding: 0; 
+ 
+}
+
+body
+{
+
+    background-color: papayawhip; 
+   
+ 
+}
+
+.custom-padding
+{
+    padding-top: 25px; 
+}
+
+nav
+{
+    position: relative; 
+    padding: 10px 20px 10px 10px; 
+    text-align: right; 
+    z-index: 1; 
+    background-color: dodgerblue;  
+    margin: 0 auto; 
+    width: calc(100% - 60px); 
+
+}
+
+.logo 
+{
+    width: 15%; 
+    float: left; 
+    text-transform: uppercase; 
+    color: black; 
+    font-size: 20px; 
+    text-align: left; 
+    padding-left: 2%; 
+}
+
+.menu-area li a
+{
+    text-decoration: none; 
+    color: white; 
+    text-transform: uppercase; 
+    display: block; 
+    padding: 0 25px; 
+    font-size: 14px; 
+    line-height: 30px; 
+    position: relative; 
+    z-index: 1; 
+}
+
+.menu-area li{
+   list-style: none; 
+   display: inline-block; 
+}
+
+.menu-area li a:hover
+{
+    background: white; 
+    color: red; 
+}
+
+#img1
+{
+   padding-top: 50px; 
+   display: block; 
+   margin-left: auto; 
+   margin-right: auto; 
+   
+}
+
+
+
+#heading
+{
+    padding-top: 20px; 
+    text-align: center; 
+}
+
+#p1  
+{
+    padding-top: 15px; 
+    text-align: center; 
+    display: block; 
+}
+
+#emp1
+{
+    padding-top: 50px; 
+     
+}
+
+#emp2
+{
+    padding-top: 50px; 
+}
+
+#emp3
+{
+    padding-top: 50px; 
+}
+
+
+#exphead 
+{
+    text-align: center; 
+    padding-top: 40px; 
+}
+
+.employment 
+{
+    text-align: center; 
+}
