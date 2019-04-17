@@ -98,29 +98,34 @@ nav
 
 #emp1
 {
-    padding-top: 60px; 
+    padding-top: 50px; 
     font-size: 20px; 
+    line-height: 35px; 
      
 }
 
 #emp2 {
     padding-top: 40px;
     font-size: 20px;
+    line-height: 35px;
 }
 
 #emp3 {
     padding-top: 40px;
-    font-size: 20px; 
+    font-size: 20px;
+    line-height: 35px;
 }
-#empdescrip1
-{
-    font-size: 18px; 
+#empdescrip1 {
+    font-size: 18px;
+    line-height: 25px;
 }
 #empdescrip2 {
     font-size: 18px;
+    line-height: 25px;
 }
 #empdescrip3 {
     font-size: 18px;
+    line-height: 25px;
 }
 
 
