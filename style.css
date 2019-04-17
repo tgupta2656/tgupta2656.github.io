@@ -4,12 +4,10 @@
  
 }
 
-body
-{
-
-    background-color: papayawhip; 
-   
- 
+body {
+    
+    background: rgb(222,3,0);
+    background: linear-gradient(90deg, rgba(222,3,0,0.6395600476518732) 0%, rgba(215,136,0,0.7908205518535539) 38%, rgba(255,149,0,0.39866368910845584) 100%);
 }
 
 .custom-padding
