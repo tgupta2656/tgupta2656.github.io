@@ -66,10 +66,13 @@ nav
 
 #img1
 {
-   padding-top: 50px; 
+   padding-top: 90px; 
+   padding-right:70px; 
    display: block; 
    margin-left: auto; 
    margin-right: auto; 
+   height:70%; 
+   width: 70%; 
    
 }
 
@@ -77,41 +80,104 @@ nav
 
 #heading
 {
-    padding-top: 20px; 
+    padding-top: 150px; 
     text-align: center; 
+    font-size: 90px; 
+   
 }
+
 
 #p1  
 {
-    padding-top: 15px; 
+    padding-top: 60px; 
     text-align: center; 
     display: block; 
+    font-size: 25px; 
 }
 
 #emp1
 {
-    padding-top: 50px; 
+    padding-top: 60px; 
+    font-size: 20px; 
      
 }
 
-#emp2
-{
-    padding-top: 50px; 
+#emp2 {
+    padding-top: 40px;
+    font-size: 20px;
 }
 
-#emp3
+#emp3 {
+    padding-top: 40px;
+    font-size: 20px; 
+}
+#empdescrip1
 {
-    padding-top: 50px; 
+    font-size: 18px; 
+}
+#empdescrip2 {
+    font-size: 18px;
+}
+#empdescrip3 {
+    font-size: 18px;
 }
 
 
-#exphead 
-{
-    text-align: center; 
-    padding-top: 40px; 
+
+#exphead {
+    text-align: center;
+    padding-top: 80px;
+    font-size: 30px;
 }
 
 .employment 
 {
     text-align: center; 
+   
+}
+
+#headabout
+{
+    padding-top: 100px; 
+    padding-bottom: 20px; 
+    text-align: center; 
+    display: block; 
+}
+
+#Linkeding {
+    padding-top: 40px;
+    height: 80px;
+    width: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+#info
+{
+    padding-top: 130px; 
+    text-align: center; 
+    font-size: 22px; 
+    padding-right: 80px; 
+    padding-left: 20px; 
+
+}
+
+#box1 {
+    float: left;
+   
+    
+    width: 33%;
+}
+#box2 {
+    float: left;
+    
+ 
+    width: 33%;
+}
+#box3 {
+    float: left;
+   
+    
+    width: 33%;
 }
